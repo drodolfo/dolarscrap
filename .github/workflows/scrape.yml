@@ -11,14 +11,15 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes:  5  # Add a timeout to prevent hanging
     
-    steps:
+    steps: 
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Setup Node.js
+      - name: Setup Node. js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
@@ -30,16 +31,15 @@ jobs:
       - name: Install Playwright browsers
         run: npx playwright install chromium
       
-      - name: Run scraper
-        run: npm run scrape
+      - name:  Run scraper
+        run: timeout 120 npm run scrape || true  # Add timeout and continue even if it fails
         env:
           LOG_LEVEL: info
       
-      - name: Commit and push changes
-        run: |
+      - name:  Commit and push changes
+        run:  |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/dolar.json
-          git diff --staged --quiet || git commit -m "🤖 Auto-update: $(date +'%Y-%m-%d %H:%M:%S')"
+          git diff --staged --quiet || git commit -m "🤖 Auto-update:  $(date +'%Y-%m-%d %H:%M:%S')"
           git push
-
