@@ -1,0 +1,1726 @@
+[
+  {
+    "timestamp": "2025-12-14T14:16:52.468Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:20:12.252Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:25:39.881Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "mep": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "ccl": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "tarjeta": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "cripto": {
+        "compra": 1425,
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:26:31.946Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:30:03.572Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "mep": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "ccl": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "tarjeta": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "cripto": {
+        "compra": 1425,
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:30:08.530Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:30:13.188Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:30:25.563Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:30:46.141Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:32:36.824Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "tarjeta": {
+        "compra": 1425,
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:34:57.725Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 142,
+        "venta": 144
+      },
+      "oficial": {
+        "compra": 142,
+        "venta": 144
+      },
+      "mep": {
+        "compra": 142,
+        "venta": 144
+      },
+      "tarjeta": {
+        "compra": 142,
+        "venta": 144
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:35:17.467Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:36:42.537Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:40:06.525Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:40:07.108Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 142,
+        "venta": 144
+      },
+      "oficial": {
+        "compra": 142,
+        "venta": 144
+      },
+      "mep": {
+        "compra": 142,
+        "venta": 144
+      },
+      "tarjeta": {
+        "compra": 142,
+        "venta": 144
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:40:07.157Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:40:07.735Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:40:10.568Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:40:12.677Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "tarjeta": {
+        "compra": 1425,
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:40:14.872Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "mep": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "ccl": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "tarjeta": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "cripto": {
+        "compra": 1425,
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:40:18.489Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:41:24.720Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1487.77,
+        "venta": 1506.81
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:44:58.371Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.3,
+        "venta": 1506.8
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:50:06.549Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 142,
+        "venta": 144
+      },
+      "oficial": {
+        "compra": 142,
+        "venta": 144
+      },
+      "mep": {
+        "compra": 142,
+        "venta": 144
+      },
+      "tarjeta": {
+        "compra": 142,
+        "venta": 144
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:50:32.055Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:50:32.230Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:50:32.252Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "mep": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "ccl": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "tarjeta": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "cripto": {
+        "compra": 1425,
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:50:32.514Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:50:32.545Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1487.75,
+        "venta": 1506.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:50:32.545Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1487.75,
+        "venta": 1506.2
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:53:33.339Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1487.75,
+        "venta": 1506.2
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "compra": 1425,
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T14:57:46.885Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1487.73,
+        "venta": 1505.69
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:00:09.103Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:01:00.609Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1487.73,
+        "venta": 1506.48
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:01:00.870Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:01:01.199Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 142,
+        "venta": 144
+      },
+      "oficial": {
+        "compra": 142,
+        "venta": 144
+      },
+      "mep": {
+        "compra": 142,
+        "venta": 144
+      },
+      "tarjeta": {
+        "compra": 142,
+        "venta": 144
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:01:01.305Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "mep": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "ccl": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "tarjeta": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "cripto": {
+        "compra": 1425,
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:01:12.039Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1487.73,
+        "venta": 1506.48
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:03:03.158Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1487.73,
+        "venta": 1506.48
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "venta": 144
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:03:18.327Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1487.73,
+        "venta": 1506.48
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:09:50.467Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.33,
+        "venta": 1505.9
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:10:31.925Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.33,
+        "venta": 1505.9
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:10:32.503Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.33,
+        "venta": 1505.9
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "venta": 144
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:10:37.569Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.33,
+        "venta": 1505.9
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:10:38.154Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:10:39.059Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.33,
+        "venta": 1505.9
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "compra": 1425,
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:10:40.745Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:11:45.286Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.33,
+        "venta": 1505.9
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:12:05.050Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:13:16.135Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.33,
+        "venta": 1505.9
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:15:00.531Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.33,
+        "venta": 1506
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "venta": 144
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:18:01.796Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.33,
+        "venta": 1506
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:20:20.524Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.15,
+        "venta": 1506.72
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:20:22.135Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:20:22.015Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.15,
+        "venta": 1506.72
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:20:34.607Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.15,
+        "venta": 1506.72
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:20:35.808Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.15,
+        "venta": 1506.72
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:20:42.921Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.15,
+        "venta": 1506.72
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      },
+      "tarjeta": {
+        "compra": 1425,
+        "venta": 1445
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:25:35.165Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.7,
+        "venta": 1505.93
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:30:04.374Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.37,
+        "venta": 1505.78
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:40:03.862Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.33,
+        "venta": 1506.16
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T15:50:04.740Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.33,
+        "venta": 1505.94
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T17:54:37.639Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.52,
+        "venta": 1505.65
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T19:40:03.510Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.27,
+        "venta": 1505.59
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T20:20:05.106Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1487.36,
+        "venta": 1505.93
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T20:30:03.559Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.03,
+        "venta": 1505.6
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T20:40:04.788Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1487.16,
+        "venta": 1505.9
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T20:50:03.964Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.7,
+        "venta": 1505.9
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T21:00:04.640Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1486.75,
+        "venta": 1505.6
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T21:10:03.900Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1488.13,
+        "venta": 1505.93
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T21:12:53.381Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1486.2,
+        "venta": 1505.35
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-12-14T21:20:03.910Z",
+    "timezone": "America/Buenos_Aires",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1425,
+        "venta": 1445
+      },
+      "oficial": {
+        "compra": 1415,
+        "venta": 1465
+      },
+      "mep": {
+        "compra": 1475.9,
+        "venta": 1480.2
+      },
+      "cripto": {
+        "compra": 1487.93,
+        "venta": 1505.9
+      },
+      "ccl": {
+        "compra": 1511.1,
+        "venta": 1512.2
+      }
+    }
+  }
+]
