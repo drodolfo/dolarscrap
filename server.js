@@ -61,5 +61,14 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);
   console.log(`📊 View the dashboard at http://localhost:${PORT}`);
+  
+  // Start the scraper in the background (only if not already running)
+  // This allows the scraper to run alongside the web server
+  if (process.env.START_SCRAPER !== 'false') {
+    console.log('🔄 Starting scraper in background...');
+    import('./src/index.js').catch(err => {
+      console.error('Error starting scraper:', err.message);
+    });
+  }
 });
 

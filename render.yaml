@@ -1,0 +1,14 @@
+# render.yaml - Optional configuration file for Render
+# This file is optional but can help with deployment configuration
+
+services:
+  - type: web
+    name: dolar-scraper
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free
+    envVars:
+      - key: START_SCRAPER
+        value: true
+
