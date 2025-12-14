@@ -1,5 +1,7 @@
 name: Scrape Dolar Data
 
+permissions:
+  contents: write
 on:
   schedule:
     # Ejecutar cada 10 minutos
