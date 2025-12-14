@@ -58,30 +58,17 @@ app.get('/', (req, res) => {
   res.sendFile(join(__dirname, 'index.html'));
 });
 
-// Start the scraper in the background
-// This allows the scraper to run alongside the web server
-async function startScraper() {
-  if (process.env.START_SCRAPER === 'false') {
-    console.log('⏸️  Scraper disabled (START_SCRAPER=false)');
-    return;
-  }
-
-  try {
-    console.log('🔄 Starting scraper in background...');
-    // Import and start the scraper - it will run schedule() automatically
-    await import('./src/index.js');
-    console.log('✅ Scraper started successfully');
-  } catch (err) {
-    console.error('❌ Error starting scraper:', err.message);
-    // Don't crash the server if scraper fails to start
-  }
-}
-
 app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);
   console.log(`📊 View the dashboard at http://localhost:${PORT}`);
   
-  // Start scraper in background (non-blocking)
-  startScraper();
+  // Start the scraper in the background (only if not already running)
+  // This allows the scraper to run alongside the web server
+  if (process.env.START_SCRAPER !== 'false') {
+    console.log('🔄 Starting scraper in background...');
+    import('./src/index.js').catch(err => {
+      console.error('Error starting scraper:', err.message);
+    });
+  }
 });
 
