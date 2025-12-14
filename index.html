@@ -151,24 +151,62 @@
             const content = document.getElementById('content');
             
             try {
-                const response = await fetch('data/dolar.json');
+                // Try Netlify function first, then fallback to direct file
+                let response;
+                try {
+                    response = await fetch('/.netlify/functions/data');
+                    if (!response.ok) {
+                        // Fallback to direct file access
+                        response = await fetch('data/dolar.json');
+                        if (response.ok) {
+                            const data = await response.json();
+                            if (Array.isArray(data) && data.length > 0) {
+                                response = { ok: true, json: async () => data[data.length - 1] };
+                            } else {
+                                throw new Error('No data available');
+                            }
+                        }
+                    }
+                } catch (e) {
+                    // Fallback to direct file
+                    response = await fetch('data/dolar.json');
+                    if (response.ok) {
+                        const data = await response.json();
+                        if (Array.isArray(data) && data.length > 0) {
+                            response = { ok: true, json: async () => data[data.length - 1] };
+                        } else {
+                            throw new Error('No data available');
+                        }
+                    }
+                }
                 if (!response.ok) {
                     throw new Error('No se pudo cargar el archivo de datos');
                 }
                 
-                const data = await response.json();
+                const latest = await response.json();
                 
-                if (!Array.isArray(data) || data.length === 0) {
+                // Handle both direct API response and array format
+                let rates, record;
+                if (latest.data) {
+                    // Already the latest record from API
+                    record = latest;
+                    rates = latest.data;
+                } else if (Array.isArray(latest) && latest.length > 0) {
+                    // Direct file access - get latest
+                    record = latest[latest.length - 1];
+                    rates = record.data;
+                } else {
                     content.innerHTML = '<div class="error">No hay datos disponibles aún.</div>';
                     return;
                 }
                 
-                // Obtener el registro más reciente
-                const latest = data[data.length - 1];
-                const rates = latest.data;
+                if (!rates) {
+                    content.innerHTML = '<div class="error">No hay datos disponibles aún.</div>';
+                    return;
+                }
                 
                 // Formatear fecha
-                const date = new Date(latest.timestamp);
+                const date = new Date(record.timestamp);
                 const formattedDate = date.toLocaleString('es-AR', {
                     year: 'numeric',
                     month: 'long',
@@ -190,7 +228,7 @@
                 let html = `
                     <div class="timestamp">
                         <strong>Última actualización:</strong> ${formattedDate}<br>
-                        <strong>Zona horaria:</strong> ${latest.timezone || 'N/A'}
+                        <strong>Zona horaria:</strong> ${record.timezone || 'N/A'}
                     </div>
                     
                     <div class="rates-grid">

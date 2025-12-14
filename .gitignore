@@ -1,6 +1,8 @@
 node_modules/
-data/dolar.json
 .env
 .DS_Store
 *.log
+
+# Note: data/dolar.json is tracked in git for Netlify deployment
+# It gets updated by GitHub Actions
 
