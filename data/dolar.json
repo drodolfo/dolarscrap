@@ -144282,5 +144282,32 @@
         "venta": 1479.1
       }
     }
+  },
+  {
+    "timestamp": "2026-05-28T19:14:13.625Z",
+    "timezone": "UTC",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1410,
+        "venta": 1430
+      },
+      "oficial": {
+        "compra": 1380,
+        "venta": 1430
+      },
+      "mep": {
+        "compra": 1432.7,
+        "venta": 1433.7
+      },
+      "cripto": {
+        "compra": 1482.8,
+        "venta": 1482.9
+      },
+      "ccl": {
+        "compra": 1483.4,
+        "venta": 1484
+      }
+    }
   }
 ]
