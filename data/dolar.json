@@ -160104,5 +160104,59 @@
         "venta": 1560.4
       }
     }
+  },
+  {
+    "timestamp": "2026-07-15T19:39:22.480Z",
+    "timezone": "UTC",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1510,
+        "venta": 1530
+      },
+      "oficial": {
+        "compra": 1445,
+        "venta": 1495
+      },
+      "mep": {
+        "compra": 1507.8,
+        "venta": 1517.2
+      },
+      "cripto": {
+        "compra": null,
+        "venta": null
+      },
+      "ccl": {
+        "compra": 1563.8,
+        "venta": 1565.4
+      }
+    }
+  },
+  {
+    "timestamp": "2026-07-15T19:40:02.733Z",
+    "timezone": "UTC",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1510,
+        "venta": 1530
+      },
+      "oficial": {
+        "compra": 1445,
+        "venta": 1495
+      },
+      "mep": {
+        "compra": 1507.8,
+        "venta": 1517.2
+      },
+      "cripto": {
+        "compra": null,
+        "venta": null
+      },
+      "ccl": {
+        "compra": 1563.8,
+        "venta": 1565.4
+      }
+    }
   }
 ]
