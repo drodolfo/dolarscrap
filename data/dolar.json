@@ -197013,5 +197013,32 @@
         "venta": null
       }
     }
+  },
+  {
+    "timestamp": "2026-10-01T21:57:28.831Z",
+    "timezone": "UTC",
+    "source": "https://www.dolarhoy.com/",
+    "data": {
+      "blue": {
+        "compra": 1535,
+        "venta": 1555
+      },
+      "oficial": {
+        "compra": 1495,
+        "venta": 1545
+      },
+      "mep": {
+        "compra": null,
+        "venta": null
+      },
+      "cripto": {
+        "compra": null,
+        "venta": null
+      },
+      "ccl": {
+        "compra": null,
+        "venta": null
+      }
+    }
   }
 ]
